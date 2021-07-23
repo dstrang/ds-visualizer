@@ -1,0 +1,8 @@
+.stack-nodes {
+    display: flex;
+}
+
+.stack-nodes .node{
+    border: solid 2px red;
+    padding: 16px;
+}
