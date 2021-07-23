@@ -1,0 +1,12 @@
+{
+  "name": "ds-visualizer",
+  "version": "1.0.0",
+  "description": "Basic web app to visualize common data structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
